@@ -35,7 +35,7 @@ I'm a dedicated **Cybersecurity Professional** with 1+ years of hands-on experie
 | 🛡️ **Security Analyst Level 1 (SAL1)** | TryHackMe | ✅ Certified |
 | 🎯 **Junior Penetration Tester (PT1)** | TryHackMe | ✅ Certified |
 | 🔐 **CompTIA Security+** | CompTIA | ✅ Certified |
-| ☁️ **Microsoft Certified: Security Operations Analyst Associate** | Microsoft | ✅ Certified |
+| ☁️ **Microsoft Certified: Security Operations Analyst Associate ( SC-200 )** | Microsoft | ✅ Certified |
 | ☁️ **Microsoft Certified: Azure Security Engineer (AZ-500)** | Microsoft | ✅ Certified |
 | ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | ✅ Certified |
 | ⚙️ **Certified Kubernetes Administrator (CKA)** | CNCF | 🔄 In Progress |
