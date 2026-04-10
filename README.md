@@ -4,7 +4,7 @@
   
 ### 🛡️ Cybersecurity Professional | Cloud Security Engineer | SOC Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/reduan-islam-badhon-37ba34288/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reduan-islam-badhon-37ba34288/)
 [![Email](https://img.shields.io/badge/Email-reduan7701@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reduan7701@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Dhaka,_Bangladesh-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
