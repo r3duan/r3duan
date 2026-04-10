@@ -30,14 +30,14 @@ I'm a dedicated **Cybersecurity Professional** with 1+ years of hands-on experie
 
 | Certification | Issuer | Status |
 |--------------|--------|---------|
-| 🔵 **Blue Team Level 1 (BTL1)** | Security Blue Team | ✅ Certified |
+| 🛡️ **Blue Team Level 1 (BTL1)** | Security Blue Team | ✅ Certified |
 | 🛡️ **Certified Cyber Defender Level 2 (CCDL2)** | Cyber Defenders | ✅ Certified |
-| 🔍 **Security Analyst Level 1 (SAL1)** | TryHackMe | ✅ Certified |
+| 🛡️ **Security Analyst Level 1 (SAL1)** | TryHackMe | ✅ Certified |
 | 🎯 **Junior Penetration Tester (PT1)** | TryHackMe | ✅ Certified |
 | 🔐 **CompTIA Security+** | CompTIA | ✅ Certified |
-| 🎯 **Microsoft Certified: Security Operations Analyst Associate** | Microsoft | ✅ Certified |
-| ☁️ **Azure Security Engineer (AZ-500)** | Microsoft | ✅ Certified |
-| ☁️ **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Certified |
+| ☁️ **Microsoft Certified: Security Operations Analyst Associate** | Microsoft | ✅ Certified |
+| ☁️ **Microsoft Certified: Azure Security Engineer (AZ-500)** | Microsoft | ✅ Certified |
+| ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | ✅ Certified |
 | ⚙️ **Certified Kubernetes Administrator (CKA)** | CNCF | 🔄 In Progress |
 
 </div>
